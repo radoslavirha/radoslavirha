@@ -1,16 +1,39 @@
-##
+Radoslav Irha
 
-<!--
-**radoslavirha/radoslavirha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack roots, but in my free time I get more energy from DevOps—everything from automation and CI/CD to Kubernetes and the infrastructure glue in between - than polishing frontends. I create overengineered projects, forget about them and learn a lot in the process.
 
-Here are some ideas to get you started:
+#### 👨‍💻 Daily Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- Typescript
+- [Ts.ED](https://tsed.dev/)
+- MongoDB
+- Docker
+
+#### 🔭 Exploring
+
+- Kubernetes, Helm, Terraform, GitOps
+- ESPHome
+
+#### Past experience
+
+- Angular, Vue + Quasar
+- Hapi
+- Redis
+- PostgresSQL, PostGIS
+- Grafana stack
+
+<details>
+  <summary>📃 Something about me ...</summary>
+  
+- ⛰️ Love hiking
+
+- 🏔️ Snowboard; ski-touring rookie
+
+- 📚 I don't understand why I didn't like sci-fi and fantasy when I was younger
+
+- 🔥 I gave up on Home Assistant after years and switched to Loxone — back in the treetops for a bit
+
+- 🍺 Ex-home-brewer currently on hiatus — planning a glorious return to the mash tun eventually
+
+</details>
