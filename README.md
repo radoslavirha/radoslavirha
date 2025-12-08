@@ -7,6 +7,7 @@ Full-stack roots, but in my free time I get more energy from DevOps—everything
 - Node.js
 - Typescript
 - [Ts.ED](https://tsed.dev/)
+- Vitest
 - MongoDB
 - Docker
 
